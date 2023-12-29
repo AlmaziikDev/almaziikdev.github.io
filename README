@@ -1,0 +1,13 @@
+Welcome to your is-a.dev webserver!
+
+You can find 2 files in this directory:
+
+- README: this file
+- index.html: the main page of your website
+
+Let's go over them:
+
+- README: this file
+- index.html is the main page of your website. You can edit it to your liking. You can also add more files to this directory, they will be served by the webserver.
+
+Enjoy! 🎉
